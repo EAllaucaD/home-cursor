@@ -35,12 +35,12 @@ export default function OpcionesScreen() {
         </View>
         {/* Nombre y email */}
         <View style={styles.userInfoRow}>
-          <Text style={styles.userName}>Luis López</Text>
+          <Text style={styles.userName}>Edwin Allauca</Text>
           <TouchableOpacity style={styles.editName}>
             <MaterialIcons name="edit" size={20} color="#222" />
           </TouchableOpacity>
         </View>
-        <Text style={styles.userEmail}>llopezc@hotmail.com</Text>
+        <Text style={styles.userEmail}>edwin@uce.edu.ec</Text>
         {/* Botones de opciones */}
         <View style={styles.optionButton}>
           <MaterialIcons name="verified-user" size={24} color="#1F4287" style={{ marginRight: 10 }} />

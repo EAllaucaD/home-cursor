@@ -39,7 +39,7 @@ export default function CarnetScreen() {
 
           {/* Student Details Section */}
           <View style={styles.studentDetailsSection}>
-            <Text style={styles.studentName}>Luis Lopez</Text>
+            <Text style={styles.studentName}>Edwin Allauca</Text>
             <Text style={styles.studentRole}>Estudiante</Text>
             <View style={styles.detailRow}>
               <Text style={styles.detailLabel}>Cédula</Text>
@@ -59,7 +59,7 @@ export default function CarnetScreen() {
             </View>
             <View style={styles.detailRow}>
               <Text style={styles.detailLabel}>E-mail</Text>
-              <Text style={styles.detailValue}>: email@yourdomin.com</Text>
+              <Text style={styles.detailValue}>: email@uce.edu.ec</Text>
             </View>
           </View>
 
