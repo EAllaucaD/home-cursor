@@ -54,9 +54,16 @@ El proyecto fue generado utilizando [`create-expo-app`](https://www.npmjs.com/pa
 
 ## Visualización
 
+### Aplicación en Figma y Cursor.
+
+
+![image](https://github.com/user-attachments/assets/c341d19d-04df-4252-8ed9-e3b4c4dd2b68)
+
+
+Otros ejemplos de todas las vistas creadas del app siiu.
+
 ![image](https://github.com/user-attachments/assets/3ca6b949-13a6-4cf0-9c5a-653d1acda718)
 
-![image](https://github.com/user-attachments/assets/85e39b48-7db8-4947-88c5-cf1ebe13a899)
 
 ![image](https://github.com/user-attachments/assets/d0593370-00cd-450b-b3a0-a02fe742820d)
 
