@@ -102,7 +102,7 @@ export default function Matriculas() {
           </View>
         ))}
         {/* Botón generar matrícula */}
-        <TouchableOpacity style={styles.generarButton}>
+        <TouchableOpacity style={styles.generarButton} onPress={() => router.push('/(tabs)/generarMatricula')}>
           <Text style={styles.generarButtonText}>GENERAR MATRÍCULA</Text>
         </TouchableOpacity>
       </ScrollView>
