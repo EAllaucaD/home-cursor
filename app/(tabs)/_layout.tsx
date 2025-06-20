@@ -56,6 +56,8 @@ export default function TabLayout() {
       <Tabs.Screen name="opciones" options={{ tabBarButton: () => null }} />
       <Tabs.Screen name="asistente" options={{ tabBarButton: () => null }} />
       <Tabs.Screen name="asignaturas" options={{ tabBarButton: () => null }} />
+      <Tabs.Screen name="matriculas" options={{ tabBarButton: () => null }} />
+      <Tabs.Screen name="generarMatricula" options={{ tabBarButton: () => null }} />
     </Tabs>
   );
 }
